@@ -6,3 +6,4 @@
 5.文档完成后就在GitShell中输入语句git add README.md，点击回车键。
 6.输入语句git commit -m "regularly modified"，点击回车键。
 7.输入语句git push origin master，点击回车键。
+*git log*是日志，*git status*是当前状态。
